@@ -123,3 +123,4 @@ nextflow run main.nf -profile docker -resume
 
 Outputs (e.g. FastQC reports, BAMs, duplication metrics) will appear under:
 
+test
